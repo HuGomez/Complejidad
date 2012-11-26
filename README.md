@@ -1,3 +1,5 @@
+**Si deseas ver esta información un poco menos aburrida, visita http://hugomez.github.com/Complejidad/ Si no es así, puedes continuar leyendo :D
+
 ##Complejidad
 
 Para calcular la complejidad algorítmica se tienen en cuenta ciertos factores como el lenguaje, la máquina y el algoritmo utilizados. Para lo anterior se piden ciertas pruebas con una cantidad determinada de entradas, implementando los siguientes algoritmos:
